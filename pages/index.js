@@ -42,7 +42,7 @@ export default function Home({ posts }) {
         <section id="one" className="tiles">
           {/* {Loop Over Posts} */}
           {posts.map((post) => (
-            <article>
+            <article key = {post.title}>
               <span className="image">
                 <img src={`/assets/images/${post.featured_image}`} alt="" />
               </span>
