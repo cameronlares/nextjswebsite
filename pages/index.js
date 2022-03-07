@@ -18,13 +18,13 @@ export default function Home({ posts }) {
       <section id="banner" className="major">
         <div className="inner">
           <header className="major">
-            <h1>Hi, my name is Forty</h1>
+            <h1>Hi, my name is Cameron</h1>
           </header>
           <div className="content">
             <p>
-              A responsive site template designed by HTML5 UP
+              I've built a Next JS layout template
               <br />
-              and released under the Creative Commons.
+              and learning how to build a blog from scratch
             </p>
             <ul className="actions">
               <li>
