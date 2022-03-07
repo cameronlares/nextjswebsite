@@ -22,7 +22,7 @@ export default function Home({ posts }) {
           </header>
           <div className="content">
             <p>
-              I've built a Next JS layout template
+              I have built a Next JS layout template
               <br />
               and learning how to build a blog from scratch
             </p>
